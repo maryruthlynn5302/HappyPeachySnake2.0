@@ -1,0 +1,30 @@
+h1 { 
+    font-size: 100px;
+    font-family: garamond;
+    color:#e4a53a;
+    display:center;
+
+    
+}
+
+
+body {
+    margin: 0px;
+    padding: 0px;
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+
+
+
+
+
+
+
+
+
